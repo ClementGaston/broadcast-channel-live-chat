@@ -74,7 +74,7 @@ All using **just browser tabs** and a shared channel name.
 
 ## 🧪 Live Demo
 
-<video src="./preview/demo.mp4" controls width="600"></video>
+> 🎥 [Click here to watch the demo video](./preview/demo.mp4)
 
 Open multiple tabs with the app running to see real-time communication across them. No servers. No WebSockets. No storage abuse. Just native browser magic ✨
 
